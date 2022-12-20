@@ -34,7 +34,7 @@
     "db-migrate-pg": "^0.4.0",
     "discord.js": "^11.3.2",
     "dotenv": "^5.0.1",
-    "knex": "^0.14.6",
+    "knex": "^2.3.0",
     "lodash": "^4.17.10",
     "pg-promise": "^8.4.0",
     "sql-template-strings": "^2.2.2"
